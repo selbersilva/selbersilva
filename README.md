@@ -1,6 +1,7 @@
 ### Olá!!! Sou a Sel! 😁
-Atualmente estou estudando as linguagens do front-end na Alura.
-HTML5, CSS3, javaScript, Angular, React JS, jQuery, Git.
+Atualmente trabalho como Analista Teste QA | Test Automation | Software Quality Assurance | QA analytcs | QA Automation | SFPC | testingOn | Cypress | Seleminum | JMeter.
+Como QA tenho habilidades em criação cenários de testes automatizados e manuais, me destacando na elaboração de cenários de testes por meio de ferramentas como Postman e testingON. Experiência em planejamento, mapeamento estratégico, análise de requisitos e execução de testes regressivos, reportes de bugs, inclusive em gerenciamento de testes e metodologias ágeis. Possuo certificação em Scrum Foudation, integrando habilidades ágeis ao meu conhecimento técnico. Em vias de concluir a graduação em Análise e Desenvolvimento de Sistemas, comprometida com aprendizado contínuo e contribuição para o sucesso dos projetos de software.
+
 
   <div align = "center">
         <a href="https://github.com/selbersilva">
